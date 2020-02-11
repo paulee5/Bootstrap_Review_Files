@@ -69,7 +69,7 @@ body {
     font-size: 1.1rem;
 }
 
-/* Course Section */
+/* Intro Section */
 .narrow {
     width: 75%;
     margin: 1.5rem auto;
@@ -78,6 +78,11 @@ body {
 
 .narrow h1 {
     font-size: 2.4rem;
+    color: #ee0606;
+}
+
+.narrow p {
+    color: #ee0606;
 }
 
 .btn-secondary {
@@ -97,11 +102,12 @@ body {
     border-color: #ee0606;
 }
 
-/* Features Section */
+/* Sports Section */
 .jumbotron {
     margin-bottom: 0;
     padding: 2rem 0 3.5rem;
     border-radius: 0;
+    color: #ee0606;
 }
 
 h3.heading {
@@ -133,7 +139,7 @@ color: #ee0606;
     font-size: 1.1rem;
 }
 
-/* Resources Section */
+/* Hobbies Section */
 .fixed {
     background-image: url(../img/apple.png);
     z-index: -1;
@@ -151,7 +157,7 @@ margin-bottom: 2rem;
 margin-top: 1.5rem;
 }
 
-/* Client Section */
+/* Games Section */
 .clients img {
     width: 100%;
     border-radius: 50%;
